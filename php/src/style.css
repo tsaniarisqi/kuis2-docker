@@ -1,0 +1,97 @@
+body{
+	background: url('cap.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.kotak{
+	background: transparent;
+	position: relative;
+	height: 500px;
+	margin-top: 120px;
+	margin-right: auto;
+	margin-bottom: 80px;
+	margin-left: 100px;
+	width: 1250px;
+	border: none;
+
+}
+
+.card{
+	background: #fbfbfb;
+	border-radius: 8px;
+	box-shadow: 1px 2px 8px rgba(0,0,0,0.65);
+	height: 410px;
+	margin-top: 80px;
+	margin-right: auto;
+	margin-bottom: 100px;
+	margin-left: auto;
+	width: 329px;
+}
+.text{
+	color: black;
+	margin-top: 0px;
+	padding-bottom: 20px;
+	font-family: "Raleway Thin", sans-serif;
+	letter-spacing: 4px;
+}
+.card1{
+	padding: 12px 44px;
+}
+.card2{
+	font-family: "Raleway Thin", sans-serif;
+	letter-spacing: 4px;
+	padding-bottom: 23px;
+	padding-top: 13px;
+	text-align: center;
+}
+.underline{
+	background: -webkit-linear-gradient(right,#78FBB9,#78FBFB);
+	height: 3px;
+	margin-top: -18px;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	width: 100px;
+}
+.form_login1{
+	margin-left: 10px;
+	margin-top: 10px;
+	padding: 5px;
+	border: 1px solid;
+	border-radius: 5px;
+}
+.form_login2{
+	margin-left: 10px;
+	margin-top: 30px;
+	padding: 5px;
+	border: 1px solid;
+	border-radius: 5px;
+}
+.user{
+	padding-left: 40px;
+	font-size: 10px;
+	padding-top: 10px;
+	size: 10px;
+}
+.pss{
+	padding-left: 40px;
+	font-size: 10px;
+	padding-top: 10px;
+	size: 10px;
+}
+input::placeholder{
+	color: #808080;
+	font-family:  "Raleway Thin", sans-serif;;
+}
+.button{
+	padding: 10px 30px;
+	border-radius: 20px;
+	margin-top: 40px;
+	cursor: pointer;
+	background: -webkit-linear-gradient(right,#FFEB00,#FFCC00);
+	color: black;
+	font-weight: bold;
+	font-size: 18px;
+	margin-left: 110px;
+}
+
